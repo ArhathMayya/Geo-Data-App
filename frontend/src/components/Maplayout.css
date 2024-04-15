@@ -1,0 +1,11 @@
+.markercluster-map {
+    height: 90vh;
+    width: 120%;
+  }
+  
+  /* */
+  
+  .leaflet-container {
+    height: 100vh;
+    
+  }
